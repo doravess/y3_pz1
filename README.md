@@ -2,9 +2,8 @@
 
 перший комміт
 комміт 2
-commit 3
+FEATURE + MAIN VERSION
 
-AAAAAAAAAAAA FEATURE TEST
 
 
 
