@@ -2,7 +2,8 @@
 
 перший комміт
 комміт 2
-commit 3
+commit 3 - MAIN VERSION
+
 
 
 
