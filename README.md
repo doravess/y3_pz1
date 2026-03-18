@@ -2,8 +2,7 @@
 
 перший комміт
 комміт 2
-FEATURE + MAIN VERSION
-FEATURE CHANGE OVRREIZ
+commit 3 - MAIN VERSION
 
 
 
