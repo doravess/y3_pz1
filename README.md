@@ -2,7 +2,7 @@
 
 перший комміт
 комміт 2
-commit 3 - FEATURE VERSION
+commit 3
 
 
 
